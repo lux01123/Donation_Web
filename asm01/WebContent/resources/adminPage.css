@@ -1,0 +1,29 @@
+.add-button {
+	border: 1px solid #666; 
+	border-radius: 5px; 
+	font-size: 12px;
+	font-weight: bold;
+	width: 80px; 
+	padding: 5px 10px; 
+	
+	color: white;
+	
+	margin: 15px;
+	margin-bottom: 10px;
+	background: #09c332;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a:active {
+	color: white;
+	text-decoration: none;
+}
